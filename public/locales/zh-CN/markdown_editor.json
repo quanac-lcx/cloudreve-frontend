@@ -103,7 +103,8 @@
   },
   "codeBlock": {
     "language": "代码块语言",
-    "selectLanguage": "选择代码块语言"
+    "selectLanguage": "选择代码块语言",
+    "inlineLanguage": "选择代码块语言"
   },
   "contentArea": {
     "editableMarkdown": "可编辑的 Markdown"
